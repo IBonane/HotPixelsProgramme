@@ -2,7 +2,7 @@
 
 
 Avant de pouvoir exécuter le programme,
-assurez vous d'avoir install opencv-python.
+assurez vous d'avoir installé opencv-python.
 sinon faites dans votre terminal: 
 
 pip install opencv-python
